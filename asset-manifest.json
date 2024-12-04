@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/covua/static/css/main.c20fef9e.css",
+    "main.js": "/covua/static/js/main.2a765d71.js",
+    "static/media/chesslogo.png": "/covua/static/media/chesslogo.979ffc21b05686edfaec.png",
+    "static/media/backgroundimage.webp": "/covua/static/media/backgroundimage.5da88fb08c98ca501840.webp",
+    "index.html": "/covua/index.html",
+    "main.c20fef9e.css.map": "/covua/static/css/main.c20fef9e.css.map",
+    "main.2a765d71.js.map": "/covua/static/js/main.2a765d71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c20fef9e.css",
+    "static/js/main.2a765d71.js"
+  ]
+}
